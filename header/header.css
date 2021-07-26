@@ -1,0 +1,26 @@
+div.header {
+    margin: 1% 0% 0% 0%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+div.right-side {
+    width: 60%;
+    display: flex;
+    justify-content: space-around;
+}
+
+div.right-side a {
+    letter-spacing: 2px;
+    color: black;
+    text-decoration: wavy;
+    text-transform: uppercase;
+    font-size: 16px;
+    transition: all ease-in-out 250ms;
+}
+
+div.right-side a:hover {
+    font-weight: bold;
+    letter-spacing: 4px;
+}

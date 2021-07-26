@@ -1,0 +1,14 @@
+body { 
+    font-family: 'Work Sans', sans-serif;
+}
+
+div.header-container {
+    height: 100%;
+}
+
+#videoBG {
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: -1;
+}
